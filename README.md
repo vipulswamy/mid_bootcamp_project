@@ -1,5 +1,6 @@
-# ABout the project
-mid_bootcamp_project
+# About the project
+mid_bootcamp_projec
+
 Introduction:
 Business Objective: To Generate a Model that predicts the body fat percentage of an athlete
 
